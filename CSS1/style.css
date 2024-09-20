@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(152, 135, 215);
+}
+ /* det er for vaker link */
+ .link{
+    color: black;
+    text-decoration: none;
+ }
+
+h1, h3{
+
+/* det er for rett plass  */
+    text-align: center; 
+
+/* det er for font  */
+    font-family: 'Arial', 'Verdana', sans-serif;
+}
+h2{
+ /* det er også for font  */
+    font-style: oblique;
+    
+ /* det er for rett plass  */
+    text-align: center;
+}
+img{
+
+/* det er for rett plass  */
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+
+ /* det er for forma av bilde */
+    border-radius: 8px;
+}
+div{
+ 
+    background-color: black;
+}
+
